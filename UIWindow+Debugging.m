@@ -2,8 +2,8 @@
 //  UIWindow+Debugging.m
 //  UIDebuggingInformationOverlayDemo
 //
-//  Created by 刘子洋 on 2017/5/27.
-//  Copyright © 2017年 刘子洋. All rights reserved.
+//  Created by zyliu on 2017/5/27.
+//  Copyright © 2017年 zyliu. All rights reserved.
 //
 
 #import "UIWindow+Debugging.h"
@@ -11,6 +11,8 @@
 static const NSTimeInterval kEnableDelaySec = 1;
 
 @implementation UIWindow (Debugging)
+
+#if DEBUG
 
 + (void)load
 {
@@ -29,5 +31,7 @@ static const NSTimeInterval kEnableDelaySec = 1;
 #pragma clang diagnostic pop
     }
 }
+
+#endif
 
 @end
