@@ -8,15 +8,13 @@
 
 #import "UIWindow+Debugging.h"
 
-static const NSTimeInterval kEnableDelaySec = 1;
-
 @implementation UIWindow (Debugging)
 
 #if DEBUG
 
 + (void)load
 {
-    [self performSelector:@selector(enableDebuggingInformationOverlay) withObject:nil afterDelay:kEnableDelaySec];
+    [self performSelector:@selector(enableDebuggingInformationOverlay) withObject:nil afterDelay:0];
 }
 
 + (void)enableDebuggingInformationOverlay
