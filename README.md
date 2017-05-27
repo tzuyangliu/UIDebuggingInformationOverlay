@@ -1,0 +1,2 @@
+# UIDebuggingInformationOverlay
+Zero config category to enable UIDebuggingInformationOverlay
