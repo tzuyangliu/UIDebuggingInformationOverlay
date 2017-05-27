@@ -1,6 +1,7 @@
 # UIDebuggingInformationOverlay
 Zero config category to enable UIDebuggingInformationOverlay
 零入侵实现开启UIDebuggingInformationOverlay
+相关博客：http://ryanipete.com/blog/ios/swift/objective-c/uidebugginginformationoverlay/
 
 # How to use
 1. Drag and drop UIWindow+Debugging category into your project
