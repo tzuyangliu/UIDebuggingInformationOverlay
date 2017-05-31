@@ -1,0 +1,12 @@
+PODS:
+  - ZYUIDebuggingInformationOverlay (1.0.0)
+
+DEPENDENCIES:
+  - ZYUIDebuggingInformationOverlay
+
+SPEC CHECKSUMS:
+  ZYUIDebuggingInformationOverlay: 157bb26ac7e2ffe68373d25a8e87304f72e66e18
+
+PODFILE CHECKSUM: f3438489d5fb6ca7f93362d68af53de3e3e60f0c
+
+COCOAPODS: 1.2.1
