@@ -1,4 +1,8 @@
 # UIDebuggingInformationOverlay
+[![Build Status](https://travis-ci.org/tzuyangliu/UIDebuggingInformationOverlay.svg?branch=master)](https://travis-ci.org/tzuyangliu/UIDebuggingInformationOverlay)
+[![CocoaPods](https://cocoapod-badges.herokuapp.com/v/ZYUIDebuggingInformationOverlay/badge.png)](https://cocoapod-badges.herokuapp.com/p/$PODNAME/badge.png)
+[![License](https://cocoapod-badges.herokuapp.com/l/ZYUIDebuggingInformationOverlay/badge.svg)](https://cocoapod-badges.herokuapp.com/l/ZYUIDebuggingInformationOverlay/badge.svg)
+
 Zero config category to enable UIDebuggingInformationOverlay
 零入侵实现开启UIDebuggingInformationOverlay
 
